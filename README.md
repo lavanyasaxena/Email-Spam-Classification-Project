@@ -1,4 +1,4 @@
-# Email-Spam-Classification-Project
+# Email-Spam-Classification-Project By Lavanya Saxena(CT_CSI_DS_4373)
 # SUMMARY
 
 ### 1. **Model is 96% accurate.**
